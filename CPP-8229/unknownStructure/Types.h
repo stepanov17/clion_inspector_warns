@@ -1,0 +1,7 @@
+
+#ifndef UNKNOWNSTRUCTURE_TYPES_H
+#define UNKNOWNSTRUCTURE_TYPES_H
+
+struct Point2d { int x, y; };
+
+#endif //UNKNOWNSTRUCTURE_TYPES_H

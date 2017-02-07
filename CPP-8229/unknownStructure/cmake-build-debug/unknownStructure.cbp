@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="unknownStructure"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/user/work/cpp-8229/tmp/CPP-8229/unknownStructure/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/user/work/cpp-8229/tmp/CPP-8229/unknownStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/user/work/cpp-8229/tmp/CPP-8229/unknownStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/user/work/cpp-8229/tmp/CPP-8229/unknownStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/user/work/cpp-8229/tmp/CPP-8229/unknownStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/user/work/cpp-8229/tmp/CPP-8229/unknownStructure/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/user/work/cpp-8229/tmp/CPP-8229/unknownStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/user/work/cpp-8229/tmp/CPP-8229/unknownStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/user/work/cpp-8229/tmp/CPP-8229/unknownStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/user/work/cpp-8229/tmp/CPP-8229/unknownStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/user/work/cpp-8229/tmp/CPP-8229/unknownStructure/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/user/work/cpp-8229/tmp/CPP-8229/unknownStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/user/work/cpp-8229/tmp/CPP-8229/unknownStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/user/work/cpp-8229/tmp/CPP-8229/unknownStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/user/work/cpp-8229/tmp/CPP-8229/unknownStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="unknownStructure">
+				<Option output="/home/user/work/cpp-8229/tmp/CPP-8229/unknownStructure/cmake-build-debug/unknownStructure" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/user/work/cpp-8229/tmp/CPP-8229/unknownStructure/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/include/c++/5"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
+					<Add directory="/usr/include/c++/5/backward"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/user/work/cpp-8229/tmp/CPP-8229/unknownStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 unknownStructure"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/user/work/cpp-8229/tmp/CPP-8229/unknownStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/user/work/cpp-8229/tmp/CPP-8229/unknownStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/user/work/cpp-8229/tmp/CPP-8229/unknownStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="unknownStructure/fast">
+				<Option output="/home/user/work/cpp-8229/tmp/CPP-8229/unknownStructure/cmake-build-debug/unknownStructure" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/user/work/cpp-8229/tmp/CPP-8229/unknownStructure/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/include/c++/5"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
+					<Add directory="/usr/include/c++/5/backward"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/user/work/cpp-8229/tmp/CPP-8229/unknownStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 unknownStructure/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/user/work/cpp-8229/tmp/CPP-8229/unknownStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/user/work/cpp-8229/tmp/CPP-8229/unknownStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/user/work/cpp-8229/tmp/CPP-8229/unknownStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/user/work/cpp-8229/tmp/CPP-8229/unknownStructure/Types.h">
+			<Option target="unknownStructure"/>
+		</Unit>
+		<Unit filename="/home/user/work/cpp-8229/tmp/CPP-8229/unknownStructure/Utils.cpp">
+			<Option target="unknownStructure"/>
+		</Unit>
+		<Unit filename="/home/user/work/cpp-8229/tmp/CPP-8229/unknownStructure/Utils.h">
+			<Option target="unknownStructure"/>
+		</Unit>
+		<Unit filename="/home/user/work/cpp-8229/tmp/CPP-8229/unknownStructure/main.cpp">
+			<Option target="unknownStructure"/>
+		</Unit>
+		<Unit filename="/home/user/work/cpp-8229/tmp/CPP-8229/unknownStructure/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

@@ -1,0 +1,3 @@
+/home/user/work/cpp-8229/tmp/CPP-8229/unknownStructure/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/user/work/cpp-8229/tmp/CPP-8229/unknownStructure/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/user/work/cpp-8229/tmp/CPP-8229/unknownStructure/cmake-build-debug/CMakeFiles/unknownStructure.dir

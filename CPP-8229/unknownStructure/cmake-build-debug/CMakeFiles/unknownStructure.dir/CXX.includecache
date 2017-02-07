@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/user/work/cpp-8229/tmp/CPP-8229/unknownStructure/Types.h
+
+/home/user/work/cpp-8229/tmp/CPP-8229/unknownStructure/Utils.cpp
+Utils.h
+/home/user/work/cpp-8229/tmp/CPP-8229/unknownStructure/Utils.h
+Types.h
+/home/user/work/cpp-8229/tmp/CPP-8229/unknownStructure/Types.h
+
+/home/user/work/cpp-8229/tmp/CPP-8229/unknownStructure/Utils.h
+
+/home/user/work/cpp-8229/tmp/CPP-8229/unknownStructure/main.cpp
+iostream
+-
+Types.h
+/home/user/work/cpp-8229/tmp/CPP-8229/unknownStructure/Types.h
+Utils.h
+/home/user/work/cpp-8229/tmp/CPP-8229/unknownStructure/Utils.h
+
