@@ -10,7 +10,7 @@ class Child : public Base {
 public:
     void f(double) { std::cout << "Child::f(double)" << std::endl; }
     Child() {
-        f(1); // ambiguous call
+        f(1); // inspection error: "ambiguous call"
         f(0.1);
     }
 };
