@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/real-ok.dir/main.cpp.o  -o real-ok 

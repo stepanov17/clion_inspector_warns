@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/user/work/cpp-8229/tmp/CPP-8229/real-ok/main.cpp
+iostream
+-
+utils/types.h
+/home/user/work/cpp-8229/tmp/CPP-8229/real-ok/utils/types.h
+cmath
+-
+
+/home/user/work/cpp-8229/tmp/CPP-8229/real-ok/utils/types.h
+
